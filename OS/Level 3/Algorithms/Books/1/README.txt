@@ -35,16 +35,15 @@ Doesn’t cover deep algorithmic analysis, but provides an excellent foundation.
 Not enough for mastering competitive programming or research-level algorithms, but perfect as a launchpad.
 
 🔍 Knowledge Gained: Where I Stand after reading this book
-Audience Group	:           Rank (out of 100)	:  Comment
+Audience Group	:           Rank (out of 100)	:    Comment
 General Population	        🥉 5th	               Most people don’t know algorithms.This book gives you a significant edge.
 UG CS Students (B.Tech)	    ⚖️ 60th	               Matches 1st–2nd year level knowledge. Some will know more, some less.
-PG CS Candidates (M.Tech)	🧠 98th	               They usually know much more, especially in design and analysis.
-PhD CS Candidates	        🧠 100th	           This is pre-school level for them. They’re doing research on complex problems.
-SDE (Entry-Level)	        👨‍💻 60th	               This book covers basics needed for interviews and junior roles.
+PG CS Candidates (M.Tech)	  🧠 98th	               They usually know much more, especially in design and analysis.
+PhD CS Candidates	          🧠 100th	             This is pre-school level for them. They’re doing research on complex problems.
+SDE (Entry-Level)	          👨‍💻 60th	               This book covers basics needed for interviews and junior roles.
 Senior SDEs	                👨‍🔧 85th	               Seniors work on scalable systems, performance, and architecture.
-FAANG Lead Engineers	    🧠 100th	           Way beyond — this book would be nostalgic for them.
-
+FAANG Lead Engineers	      🧠 100th	             Way beyond — this book would be nostalgic for them.
 
 🛣️ What's Next?
-This is just the beginning of my Algorithm journey. I'm progressing through more advanced books covering
+This is just the beginning of my Algorithm journey. I'm progressing through more advanced books.
 Stay tuned for those repositories.
