@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed847f05-cd23-400b-a3ef-3f9bf25dc62f" name="Changes" comment="Added Readme on Algorithm Book 1">
+      <change afterPath="$PROJECT_DIR$/.idea/GarageX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-1/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-1/binary_search_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-1/number guessing game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-1/sequential_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-1/visualizing runtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-10/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-11/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-12/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-13/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-2/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-2/selection sort visualizing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-2/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-2/sort people by height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderA/SubFolderAA/SubFolderAAA/fileAAA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderA/SubFolderAA/SubFolderAAB/fileAAB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderA/SubFolderAA/fileAA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderA/SubFolderAB/SubFolderABA/fileABA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderA/SubFolderAB/fileAB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderA/fileA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderB/SubFolderBA/SubFolderBAA/fileBAA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderB/SubFolderBA/fileBA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderB/SubFolderBB/SUbFolderBBB/fileBBB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderB/SubFolderBB/SubFolderBBA/fileBBA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderB/SubFolderBB/fileBB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/SubFolderB/fileBA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/MainFolder/mainfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/fractals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/my_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-3/recursive_folder_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-4/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-4/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-4/quick_sort_visualizing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-5/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-5/hash_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-6/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-6/maze_solver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-6/network_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderA/SubFolderAA/SubFolderAAA/fileAAA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderA/SubFolderAA/SubFolderAAB/fileAAB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderA/SubFolderAA/fileAA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderA/SubFolderAB/SubFolderABA/fileABA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderA/SubFolderAB/fileAB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderA/fileA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderB/SubFolderBA/SubFolderBAA/fileBAA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderB/SubFolderBA/fileBA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderB/SubFolderBB/SUbFolderBBB/fileBBB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderB/SubFolderBB/SubFolderBBA/fileBBA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderB/SubFolderBB/fileBB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/SubFolderB/fileBA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/MainFolder/mainfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/all_of_shakespear.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/file_compression_with_huffman_coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/folder_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/huffman_coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-8/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-9/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prashanthprabhu24&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prashanthprabhu24/GarageX&quot;,
+    &quot;accountId&quot;: &quot;676ff51c-5e68-411d-9a86-a49297c67c90&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xdNnLDc6jCPsIsahY630AhscAp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.binary_search.executor": "Run",
+    "Python.binary_search_gui.executor": "Run",
+    "Python.file_compression_with_huffman_coding.executor": "Run",
+    "Python.folder_crawler.executor": "Run",
+    "Python.fractals.executor": "Run",
+    "Python.hash viz.executor": "Run",
+    "Python.hash_test.executor": "Run",
+    "Python.huffman_coding.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.maze_solver.executor": "Run",
+    "Python.my_example.executor": "Run",
+    "Python.network_traversal.executor": "Run",
+    "Python.number guessing game.executor": "Run",
+    "Python.quick_sort.executor": "Run",
+    "Python.quick_sort_visualizing.executor": "Run",
+    "Python.recursive_folder_crawler.executor": "Run",
+    "Python.selection sort visualizing.executor": "Run",
+    "Python.selection_sort.executor": "Run",
+    "Python.sequential_search.executor": "Run",
+    "Python.sort people by height.executor": "Run",
+    "Python.visualizing runtime.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Hp/PycharmProjects/GarageX/OS/Level 3/Algorithms/Books/1/Ch-7",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\GarageX\OS\Level 3\Algorithms\Books\1\Ch-7" />
+      <recent name="C:\Users\Hp\PycharmProjects\GarageX\OS\Level 3\Algorithms\Books\1\Ch-13" />
+      <recent name="C:\Users\Hp\PycharmProjects\GarageX\OS\Level 3\Algorithms\Books\1\Ch-12" />
+      <recent name="C:\Users\Hp\PycharmProjects\GarageX\OS\Level 3\Algorithms\Books\1\Ch-11" />
+      <recent name="C:\Users\Hp\PycharmProjects\GarageX\OS\Level 3\Algorithms\Books\1\Ch-10" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\GarageX\OS\Level 3\Algorithms\Books\1\Ch-3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.file_compression_with_huffman_coding">
+    <configuration name="file_compression_with_huffman_coding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GarageX" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/file_compression_with_huffman_coding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="folder_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GarageX" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/folder_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="huffman_coding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GarageX" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-7/huffman_coding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GarageX" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maze_solver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GarageX" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-6/maze_solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GarageX" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OS/Level 3/Algorithms/Books/1/Ch-6/network_traversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.file_compression_with_huffman_coding" />
+        <item itemvalue="Python.huffman_coding" />
+        <item itemvalue="Python.folder_crawler" />
+        <item itemvalue="Python.network_traversal" />
+        <item itemvalue="Python.maze_solver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed847f05-cd23-400b-a3ef-3f9bf25dc62f" name="Changes" comment="" />
+      <created>1748264158228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748264158228</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Readme on Algorithm Book 1">
+      <option name="closed" value="true" />
+      <created>1751139321611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751139321611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Readme on Algorithm Book 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Readme on Algorithm Book 1" />
+  </component>
+</project>
